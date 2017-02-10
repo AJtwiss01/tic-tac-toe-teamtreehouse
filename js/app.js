@@ -1,3 +1,13 @@
+/*
+* @Author: AJ  Twiss
+* @Date:   2017-02-09 23:26:29
+* @Last Modified by:   AJ  Twiss
+* @Last Modified time: 2017-02-09 23:36:34
+*/
+
+'use strict';
+
+
  var board = document.getElementById('board');
  var start = document.getElementById('start');
 
